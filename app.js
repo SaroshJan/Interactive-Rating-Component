@@ -52,7 +52,3 @@ btnSubmit.addEventListener('click', (e) => {
 
     btnSubmit.blur();
 });
-
-
-
-
